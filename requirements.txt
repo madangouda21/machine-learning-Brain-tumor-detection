@@ -1,0 +1,3 @@
+Flask==2.3.2 # Or a recent version
+Flask-Cors==3.0.10 # Or a recent version
+Pillow==10.0.0 # Only if you plan to use PIL.Image for image processing
